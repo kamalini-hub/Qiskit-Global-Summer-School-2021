@@ -16,6 +16,9 @@ QML is the integration of quantum algorithms within machine learning programs. I
 Exploring QML applications while understanding their limitations and potential by the esteemed lecturers was a great experience.
 
 ### Resources
+
+https://www.ibm.com/quantum-computing/
+
 https://qiskit.org/textbook-beta
 
 https://quantum-computing.ibm.com/
